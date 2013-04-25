@@ -1,0 +1,7 @@
+﻿1- It is idea managing for sample project, Features : Post Idea with Categories,Post Comment,Post Rating. Auth: Facebook  
+2- Approach : Model Repository / Service / View
+3- Technologies: Model Repository - EF, Service - ServiceStack, View - Razor coffescript,angular.js, knockout.js
+
+
+Post return redirect 
+ 
